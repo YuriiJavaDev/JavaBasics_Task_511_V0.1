@@ -33,9 +33,9 @@ For example:
 
 ```java
 button clicked
-↓
+    ↓
 actionPerformed()
-↓
+    ↓
 code is executed
 ```
 
